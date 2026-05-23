@@ -1,6 +1,6 @@
 # ![Import Logo Later]() **LegacySDK**
 
-**LegacySDK** is a Minecraft Legacy Edition (PS3/PS4, XBOX 360/One or PC) mod loader and a modding SDK (like [Geode](https://github.com/geode-sdk/))
+**LegacySDK** is a Minecraft Legacy Edition (PS3/PS4, XBOX 360/One or PC) mod loader and a modding SDK (like [Geode](https://github.com/geode-sdk/)) **(RIGHT NOW PC ONLY)**
 
 ## Getting started
 
