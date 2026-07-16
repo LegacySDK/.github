@@ -10,10 +10,10 @@ Check the [LegacySDK](https://github.com/LegacySDK/LegacySDK) repository to see 
 
 PS3:
 - [x] Minecraft Legacy Edition EBOOT.BIN/EBOOT.elf
-- [x] psl1ght & [ps3sdk](https://miskaa.pl/upload/ps3sdk/)
-- [x] PS3_DISC.SFB editor
+- [x] [psl1ght](https://github.com/LegacySDK/psl1ght-installer) & [ps3sdk](https://miskaa.pl/upload/ps3sdk/)
+- [x] PS3_DISC.SFB [editor](https://github.com/LegacySDK/sfb-editor)
 - [ ] PARAM.SFO editor
-- [ ] Launcher
+- [ ] [Launcher](https://github.com/LegacySDK/ps3-launcher)
 - [ ] PS3 Bindings
 - [ ] The Actual Fucking Implementation
 
