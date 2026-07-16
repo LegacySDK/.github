@@ -5,3 +5,20 @@
 ## Getting started
 
 Check the [LegacySDK](https://github.com/LegacySDK/LegacySDK) repository to see how it works. Docs will be made later
+
+## ROADMAP
+
+PS3: \
+[x] Minecraft Legacy Edition EBOOT.BIN/EBOOT.elf \
+[x] psl1ght & [ps3sdk](https://miskaa.pl/upload/ps3sdk/) \
+[x] PS3_DISC.SFB editor \
+[ ] PARAM.SFO editor \
+[ ] Launcher \
+[ ] PS3 Bindings \
+[ ] The Actual Fucking Implementation
+
+PS4: \
+<small>idk bra</small>
+
+XBOX 360: \
+maybe
