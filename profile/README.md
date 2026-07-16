@@ -1,6 +1,6 @@
 # ![Import Logo Later](https://github.com/LegacySDK/LegacySDK/blob/main/title.png?raw=true)
 
-**LegacySDK** is a Minecraft Legacy Edition (PS3/PS4, XBOX 360 or PC) mod loader and a modding SDK (like [Geode](https://github.com/geode-sdk/)) **(RIGHT NOW PC ONLY)**
+**LegacySDK** is a Minecraft Legacy Edition (PS3/PS4, XBOX 360 or PC) mod loader and a modding SDK (like [Geode](https://github.com/geode-sdk/))
 
 ## Getting started
 
@@ -8,17 +8,17 @@ Check the [LegacySDK](https://github.com/LegacySDK/LegacySDK) repository to see 
 
 ## ROADMAP
 
-PS3: \
-[x] Minecraft Legacy Edition EBOOT.BIN/EBOOT.elf \
-[x] psl1ght & [ps3sdk](https://miskaa.pl/upload/ps3sdk/) \
-[x] PS3_DISC.SFB editor \
-[ ] PARAM.SFO editor \
-[ ] Launcher \
-[ ] PS3 Bindings \
-[ ] The Actual Fucking Implementation
+PS3:
+- [x] Minecraft Legacy Edition EBOOT.BIN/EBOOT.elf
+- [x] psl1ght & [ps3sdk](https://miskaa.pl/upload/ps3sdk/)
+- [x] PS3_DISC.SFB editor
+- [ ] PARAM.SFO editor
+- [ ] Launcher
+- [ ] PS3 Bindings
+- [ ] The Actual Fucking Implementation
 
-PS4: \
-<small>idk bra</small>
+PS4:
+- <small>idk bra</small>
 
-XBOX 360: \
-maybe
+XBOX 360:
+- maybe
