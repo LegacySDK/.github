@@ -6,6 +6,10 @@
 
 Check the [LegacySDK](https://github.com/LegacySDK/LegacySDK) repository to see how it works. Docs will be made later
 
+## We've also made some useful things
+We've made stuff to help in PS3 development like the psl1ght installer and psl1ght github actions! \
+That's cool, isn't it?
+
 ## ROADMAP
 
 PS3:
@@ -18,7 +22,7 @@ PS3:
 - [ ] The Actual Fucking Implementation
 
 PS4:
-- <small>idk bra</small>
+- TODO: ADD SHIT HERE
 
 XBOX 360:
-- maybe
+- TODO: ADD SHIT HERE
