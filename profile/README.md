@@ -18,7 +18,7 @@ PS3:
 - [x] PS3_DISC.SFB [editor](https://github.com/LegacySDK/sfb-editor) ([Website!](https://miskaa.pl/sfb/))
 - [ ] PARAM.SFO editor ([Website!](https://miskaa.pl/sfo)) (kinda... doesnt work very well)
 - [ ] [Launcher](https://github.com/LegacySDK/ps3-launcher)
-- [ ] PS3 Bindings
+- [x] PS3 [Bindings](https://github.com/LegacySDK/bindings/)
 - [ ] The Actual Fucking Implementation
 
 PS4:
