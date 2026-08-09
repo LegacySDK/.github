@@ -15,8 +15,8 @@ That's cool, isn't it?
 PS3:
 - [x] Minecraft Legacy Edition EBOOT.BIN/EBOOT.elf
 - [x] [psl1ght](https://github.com/LegacySDK/psl1ght-installer) & [ps3sdk](https://miskaa.pl/upload/ps3sdk/)
-- [x] PS3_DISC.SFB [editor](https://github.com/LegacySDK/sfb-editor)
-- [ ] PARAM.SFO editor
+- [x] PS3_DISC.SFB [editor](https://github.com/LegacySDK/sfb-editor) ([Website!](https://miskaa.pl/sfb/))
+- [ ] PARAM.SFO editor ([Website!](https://miskaa.pl/sfo)) (kinda... doesnt work very well)
 - [ ] [Launcher](https://github.com/LegacySDK/ps3-launcher)
 - [ ] PS3 Bindings
 - [ ] The Actual Fucking Implementation
