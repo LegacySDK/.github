@@ -26,3 +26,6 @@ PS4:
 
 XBOX 360:
 - TODO: ADD SHIT HERE
+
+WiiU: (Fuck it, Wii Ball :trollface:)
+- TODO: ADD SHIT HERE
