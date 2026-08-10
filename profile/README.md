@@ -28,4 +28,9 @@ XBOX 360:
 - TODO: ADD SHIT HERE
 
 WiiU: (Fuck it, Wii Ball :trollface:)
-- TODO: ADD SHIT HERE
+- [x] *Obtain* keys
+- [x] *Obtain* .wux/.wud
+- [x] Minecraft.Client.rpx 
+- [ ] bindings
+- [ ] launcher
+- [ ] The Actual Fucking Implementation
