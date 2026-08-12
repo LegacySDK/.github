@@ -18,7 +18,7 @@ PS3:
 - [x] PS3_DISC.SFB [editor](https://github.com/LegacySDK/sfb-editor) ([Website!](https://miskaa.pl/sfb/))
 - [ ] PARAM.SFO editor ([Website!](https://miskaa.pl/sfo)) (kinda... doesnt work very well)
 - [ ] [Launcher](https://github.com/LegacySDK/ps3-launcher)
-- [x] PS3 [Bindings](https://github.com/LegacySDK/bindings/)
+- [x] PS3 [Bindings](https://github.com/LegacySDK/bindings/) (in the works)
 - [ ] The Actual Fucking Implementation
 
 PS4:
@@ -31,6 +31,6 @@ WiiU: (Fuck it, Wii Ball :trollface:)
 - [x] *Obtain* keys
 - [x] *Obtain* .wux/.wud
 - [x] Minecraft.Client.rpx 
-- [ ] bindings
+- [ ] bindings (in the works)
 - [ ] launcher
 - [ ] The Actual Fucking Implementation
